@@ -1,8 +1,8 @@
 body {
   background-image: linear-gradient(
     23deg,
-    hsl(330, 91%, 57%) 0%,      /* Vivid Purple */
-    hsl(155, 100%, 50%) 50%,    /* Vivid Green */
+    hsl(39, 91%, 57%) 5%,      /* Vivid Purple */
+    hsl(182, 100%, 50%) 50%,    /* Vivid Green */
     hsl(30, 100%, 50%) 100%   /* Vivid Orange */
   );
   height: 100vh;
